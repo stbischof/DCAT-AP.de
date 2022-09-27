@@ -107,7 +107,7 @@ Die folgenden Eigenschaften wurden von DCAT-AP.de hinzugefügt oder verändert: 
 
 <br>
 
-###  Katalog: Sprache [](#katalog-sprache)
+###  Katalog: Sprache [ ](#katalog-sprache)
 > | *URI*                    | [`dct:language`](http://purl.org/dc/terms/language) |
 > |:-------------------------|:-------------------------------------------|
 > | Wertebereich             | [`dct:LinguisticSystem`](http://purl.org/dc/terms/LinguisticSystem)                     |
