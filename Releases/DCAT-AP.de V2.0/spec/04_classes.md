@@ -41,7 +41,7 @@ Die folgenden Eigenschaften wurden von DCAT-AP.de hinzugefügt oder verändert: 
 <hr>
 <br>
 
-###  Katalog: Titel {#katalog-titel}
+###  [Katalog: Titel](#katalog-titel)
 > | *URI*                    | [`dct:title`](http://purl.org/dc/terms/title) |
 > |:-------------------------|:-------------------------------------------|
 > | Wertebereich             | [`rdfs:Literal`](http://www.w3.org/2000/01/rdf-schema#Literal)                     |
@@ -52,7 +52,7 @@ Die folgenden Eigenschaften wurden von DCAT-AP.de hinzugefügt oder verändert: 
 
 <br>
 
-###  Katalog: Beschreibung {#katalog-beschreibung}
+###  [Katalog: Beschreibung](#katalog-beschreibung)
 > | *URI*                    | [`dct:description`](http://purl.org/dc/terms/description) |
 > |:-------------------------|:-------------------------------------------|
 > | Wertebereich             | [`rdfs:Literal`](http://www.w3.org/2000/01/rdf-schema#Literal)                     |
@@ -63,7 +63,7 @@ Die folgenden Eigenschaften wurden von DCAT-AP.de hinzugefügt oder verändert: 
 
 <br>
 
-###  Katalog: Datensatz {#katalog-datensatz}
+###  [Katalog: Datensatz](#katalog-datensatz)
 > | *URI*                    | [`dcat:dataset`](http://www.w3.org/ns/dcat#dataset) |
 > |:-------------------------|:-------------------------------------------|
 > | Wertebereich             | [`dcat:Dataset`](http://www.w3.org/ns/dcat#Dataset)                     |
@@ -74,7 +74,7 @@ Die folgenden Eigenschaften wurden von DCAT-AP.de hinzugefügt oder verändert: 
 
 <br>
 
-###  Katalog: Herausgeber {#katalog-herausgeber}
+###  [Katalog: Herausgeber](#katalog-herausgeber)
 > | *URI*                    | [`dct:publisher`](http://purl.org/dc/terms/publisher) |
 > |:-------------------------|:-------------------------------------------|
 > | Wertebereich             | [`foaf:Agent`](http://xmlns.com/foaf/0.1/Agent)                     |
@@ -85,7 +85,7 @@ Die folgenden Eigenschaften wurden von DCAT-AP.de hinzugefügt oder verändert: 
 
 <br>
 
-###  Katalog: Veröffentlichungsdatum {#katalog-veroffentlichungsdatum}
+###  [Katalog: Veröffentlichungsdatum](#katalog-veroffentlichungsdatum)
 > | *URI*                    | [`dct:issued`](http://purl.org/dc/terms/issued) |
 > |:-------------------------|:-------------------------------------------|
 > | Wertebereich             | [`rdfs:Literal`](http://www.w3.org/2000/01/rdf-schema#Literal) getyped als `xsd:date` oder `xsd:dateTime`                     |
@@ -96,7 +96,7 @@ Die folgenden Eigenschaften wurden von DCAT-AP.de hinzugefügt oder verändert: 
 
 <br>
 
-###  Katalog: Aktualisierungsdatum {#katalog-aktualisierungsdatum}
+###  Katalog: Aktualisierungsdatum](#katalog-aktualisierungsdatum}
 > | *URI*                    | [`dct:modified`](http://purl.org/dc/terms/modified) |
 > |:-------------------------|:-------------------------------------------|
 > | Wertebereich             | [`rdfs:Literal`](http://www.w3.org/2000/01/rdf-schema#Literal) getyped als `xsd:date` oder `xsd:dateTime`                     |
@@ -1858,7 +1858,7 @@ Die folgenden Eigenschaften wurden von DCAT-AP.de hinzugefügt oder verändert: 
 <hr>
 <br>
 
-###  Kategorienschema: Titel {#kategorienschema-bezeichnung}
+### [Kategorienschema: Titel](#kategorienschema-bezeichnung)
 > | *URI*                    | [`dct:title`](http://purl.org/dc/terms/title) |
 > |:-------------------------|:-------------------------------------------|
 > | Wertebereich             | [`rdfs:Literal`](http://www.w3.org/2000/01/rdf-schema#Literal)                     |
